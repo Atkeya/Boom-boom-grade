@@ -1,2 +1,2 @@
-# Boom-boom-code
+# SMOTE-code
 thesis
